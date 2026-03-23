@@ -2,6 +2,8 @@
 
 **Proyecto:** PT-Celdas-Solares-20250428 / SISFV – Argelia, Cauca
 
+El siguiente cuadro comparativo presenta los eventos vinculados al flujo de trabajo de Scrum aplicados al proyecto **SISFV – Argelia, Cauca**, teniendo en cuenta su definición, participantes, tiempo asignado, resultados esperados y beneficios dentro de la gestión ágil del proyecto.
+
 | Nombre del Evento | Definición | Stakeholders Participantes | Tiempo Asignado | Principales Resultados del Evento | Beneficios o Importancia en el Flujo de Trabajo Scrum |
 |---|---|---|---|---|---|
 | **Sprint** | Es el ciclo de trabajo corto, iterativo e incremental en el que el equipo desarrolla un conjunto de actividades priorizadas para entregar un incremento funcional del proyecto. En este caso, el Sprint permite organizar la instalación, validación y documentación de soluciones fotovoltaicas por lotes de viviendas o veredas. | Product Owner, Scrum Master, Equipo de Desarrollo; de forma indirecta comunidad beneficiaria, supervisión e interventoría como interesados del resultado. | 2 semanas por Sprint. En el documento se propone esta duración para un proyecto de 6 a 8 meses. | Incremento funcional del proyecto: viviendas con sistema instalado, operativo, evidencias técnicas, validación básica y soporte de capacitación al usuario. | Permite dividir un proyecto amplio en entregas manejables, mejora el control del avance, facilita la adaptación frente a condiciones de clima, logística o acceso territorial, y asegura entregas continuas de valor. |
@@ -10,6 +12,10 @@
 | **Revisión del Sprint (Sprint Review)** | Es el evento al final del Sprint en el que se presenta el incremento realmente logrado y se obtiene retroalimentación de los interesados. En el proyecto se exponen los sistemas instalados, funcionando, con evidencias técnicas y capacitación realizada. | Product Owner, Scrum Master, Equipo de Desarrollo, comunidad beneficiaria, alcaldía, supervisión, interventoría y demás interesados clave. | Hasta 2 horas para un Sprint de 2 semanas. | Validación del incremento, retroalimentación de stakeholders, revisión del cumplimiento de criterios de aceptación y actualización del Product Backlog. | Asegura transparencia, valida que lo entregado realmente genere valor, fortalece la participación de los interesados y permite ajustar el rumbo del proyecto con base en resultados reales. |
 | **Retrospectiva del Sprint (Sprint Retrospective)** | Es el espacio de reflexión del equipo sobre la forma en que trabajó durante el Sprint. Busca identificar qué funcionó, qué no funcionó y qué acciones concretas se deben mejorar en el siguiente ciclo. | Scrum Master, Product Owner y Equipo de Desarrollo. | Hasta 1,5 horas para un Sprint de 2 semanas. | Acciones de mejora concretas, medibles, con responsable y seguimiento para el próximo Sprint. | Fortalece la mejora continua, permite aprender de errores y aciertos, mejora la coordinación del equipo y aumenta la eficiencia en la ejecución de futuros Sprints. |
 
-## Nota
+## Análisis breve
 
-Este cuadro comparativo presenta los principales eventos del flujo de trabajo de Scrum aplicados al proyecto **PT-Celdas-Solares-20250428 / SISFV – Argelia, Cauca**, destacando su definición, participantes, duración, resultados esperados y aporte dentro de la gestión ágil del proyecto.
+Los eventos de Scrum cumplen funciones complementarias dentro del flujo de trabajo del proyecto **SISFV – Argelia, Cauca**. El **Sprint** constituye el marco temporal donde se concreta el trabajo; la **Planeación del Sprint** establece los objetivos y compromisos realistas; la **Reunión Diaria** asegura inspección y coordinación continua; la **Revisión del Sprint** valida el incremento con los interesados; y la **Retrospectiva** promueve la mejora continua del equipo.
+
+En conjunto, estos eventos permiten aplicar de manera práctica los principios de **transparencia, inspección y adaptación**, y fortalecen la gestión del proyecto en un entorno rural con restricciones de acceso, variabilidad climática, necesidades logísticas y exigencia de evidencias técnicas y sociales.
+
+**Nota.** Elaboración propia con base en la planificación de los eventos de Scrum desarrollada para el proyecto seleccionado.
