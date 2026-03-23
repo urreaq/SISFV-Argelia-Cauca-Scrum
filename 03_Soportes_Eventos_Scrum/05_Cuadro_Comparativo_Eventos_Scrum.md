@@ -1,6 +1,6 @@
 # Cuadro comparativo de los eventos vinculados al flujo de trabajo de Scrum
 
-**Proyecto:** PT-Celdas-Solares-20250428 / SISFV – Argelia, Cauca
+**Proyecto:** SISFV – Argelia, Cauca
 
 El siguiente cuadro comparativo presenta los eventos vinculados al flujo de trabajo de Scrum aplicados al proyecto **SISFV – Argelia, Cauca**, teniendo en cuenta su definición, participantes, tiempo asignado, resultados esperados y beneficios dentro de la gestión ágil del proyecto.
 
