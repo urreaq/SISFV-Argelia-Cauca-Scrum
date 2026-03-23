@@ -1,4 +1,4 @@
-# Cuadro comparativo de los eventos vinculados al flujo de trabajo de Scrum
+# Cuadro Comparativo de los Eventos Vinculados al Flujo de Trabajo de Scrum
 
 **Proyecto:** SISFV – Argelia, Cauca
 
