@@ -1,6 +1,6 @@
 # Asignación de Roles del Equipo Scrum
 
-**Tabla 2. Roles del equipo de acuerdo con el enfoque Scrum**
+**Roles del equipo de acuerdo con el enfoque Scrum**
 
 | Rol | Nombre del integrante | Función del equipo |
 |---|---|---|
