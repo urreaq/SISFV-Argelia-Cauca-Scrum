@@ -1,0 +1,5 @@
+# Informe breve de implementación
+
+La implementación se desarrolló como un escenario simulado con apoyo de TIC, tal como exige la guía del componente práctico. Para hacerla real y verificable dentro de ese contexto, el equipo ejecutó un Sprint 1 piloto con 12 viviendas, aplicando los 5 eventos y los 3 artefactos de Scrum con soporte de IA. El Product Backlog se refinó con historias regeneradas por IA, el Sprint Planning se apoyó en estimación y secuenciación automática de tareas, el Daily Scrum incorporó resúmenes de bloqueos, la Sprint Review utilizó consolidación automática de resultados y la Retrospective apoyó la formulación de acciones de mejora.
+
+El resultado del Sprint fue un incremento funcional: 12 soluciones SISFV instaladas y energizadas, con cierre documental y capacitación básica. El principal aprendizaje fue que el cuello de botella no estuvo en la instalación técnica sino en la evidencia documental; por ello, el Sprint 2 deberá reforzar control de firmas, carga de evidencias y revisión diaria de stock crítico.
