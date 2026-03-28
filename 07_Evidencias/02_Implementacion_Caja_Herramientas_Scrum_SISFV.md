@@ -8,23 +8,11 @@ Con el fin de aplicar el marco de trabajo Scrum en un entorno práctico, se impl
 
 La implementación de la caja de herramientas de Scrum se realizó tomando como base el proyecto seleccionado **SISFV – Argelia, Cauca**, el cual fue configurado en Jira como un proyecto tipo Scrum. A partir de esta configuración, se procedió a organizar el flujo de trabajo conforme a los principios del marco ágil, permitiendo representar en una herramienta digital los artefactos, roles, eventos y evidencias del proceso.
 
-### Figura 1. Vista Resumen del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del resumen del proyecto en Jira.
-
 En primer lugar, se estructuró el **Product Backlog** del proyecto mediante la creación de épicas e historias de usuario. Las épicas agruparon los grandes frentes de trabajo del proyecto, tales como replanteo de obra, instalación de equipos, instalaciones internas, sistema de medición y gestión, capacitación comunitaria, evidencias y cierre documental, así como seguimiento y mejora continua. Posteriormente, estas épicas se desagregaron en historias principales, formuladas con enfoque de valor y orientadas a cubrir las necesidades funcionales del proyecto. Entre ellas se incluyeron actividades como el replanteo técnico del lote piloto, la instalación del sistema fotovoltaico, la ejecución de instalaciones internas, la validación del sistema de medición, la capacitación a usuarios y la consolidación de evidencias técnicas y documentales.
-
-### Figura 2. Vista del Backlog del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del backlog del proyecto en Jira.
 
 Como apoyo a esta etapa, se integró el uso de **inteligencia artificial generativa**, la cual permitió mejorar la redacción de las historias de usuario, clarificar criterios de aceptación y fortalecer la organización lógica del backlog. De esta forma, la IA no sustituyó la toma de decisiones del equipo, sino que actuó como herramienta de apoyo para aumentar la claridad, consistencia y trazabilidad de la planeación.
 
 En segundo lugar, se construyó el **Sprint Backlog** correspondiente al **Sprint 1 – Piloto Vereda**, seleccionando del Product Backlog las historias que representaban el trabajo más relevante para el ciclo inicial. A estas historias se les asociaron subtareas operativas, lo que permitió desagregar el trabajo en acciones más concretas como validación de rutas de acceso, verificación de kits y materiales, instalación de paneles y estructura, instalación de baterías e inversor, registro de evidencias y ejecución de capacitación básica. Esta descomposición facilitó el seguimiento diario y permitió visualizar el avance real del Sprint en el tablero de Jira.
-
-### Figura 3. Vista del Cronograma del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del cronograma del proyecto en Jira.
 
 Dentro de esta implementación también se incorporaron los cinco eventos de Scrum. El **Sprint Planning** fue registrado como la actividad de definición del objetivo del Sprint, selección de historias, identificación de riesgos y validación de la **Definition of Done**. Posteriormente, se documentaron los **Daily Scrum** de los diez días del Sprint, incluyendo comentarios de evidencia relacionados con el avance del trabajo, los bloqueos encontrados, el plan del día y el apoyo requerido. Del mismo modo, se documentaron la **Sprint Review** y la **Sprint Retrospective**, registrando en Jira la validación del incremento entregado, la retroalimentación obtenida, las lecciones aprendidas y las acciones de mejora para el siguiente Sprint.
 
@@ -35,10 +23,6 @@ El tercer artefacto de Scrum, el **Incremento**, fue documentado en Jira como el
 En la planeación se mantuvo la estructura previamente definida para la asignación de responsabilidades: el **Product Owner** lideró la visión y la priorización del backlog, el **Scrum Master** facilitó los eventos y promovió la mejora continua, mientras que los **Developers** apoyaron el análisis técnico, la planificación y la documentación del proyecto. Esta distribución funcional de roles quedó claramente establecida en el trabajo y permitió evidenciar, a través de la herramienta, la lógica del proceso Scrum sin afectar el valor académico del ejercicio.
 
 Finalmente, el tablero de Jira fue actualizado con estados como **En curso** y **Finalizada**, de manera que el flujo de trabajo pudiera reflejar visualmente el estado de avance del Sprint. Las historias y subtareas operativas relacionadas con la ejecución del trabajo se ubicaron en **En curso**, mientras que los eventos ya documentados, los análisis y el incremento fueron marcados como **Finalizada**, permitiendo mostrar de manera ordenada la implementación real de la caja de herramientas de Scrum en el proyecto seleccionado.
-
-### Figura 4. Vista del Tablero del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del tablero del proyecto en Jira.
 
 En síntesis, la implementación desarrollada en Jira permitió trasladar a un entorno práctico los lineamientos definidos en la fase anterior, integrando backlog, sprint, eventos, evidencias, métricas y mejora continua en una sola herramienta de trabajo. Esto demuestra que el marco Scrum puede aplicarse de manera organizada al proyecto **SISFV – Argelia, Cauca**, apoyándose en tecnologías emergentes e inteligencia artificial para fortalecer la planeación, la ejecución y la documentación del proceso.
 
