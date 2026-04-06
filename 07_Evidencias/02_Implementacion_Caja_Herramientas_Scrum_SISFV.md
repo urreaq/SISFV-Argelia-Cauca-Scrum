@@ -8,25 +8,13 @@ Con el fin de aplicar el marco de trabajo Scrum en un entorno práctico, se impl
 
 La implementación de la caja de herramientas de Scrum se realizó tomando como base el proyecto seleccionado **SISFV – Argelia, Cauca**, el cual fue configurado en Jira como un proyecto tipo Scrum. A partir de esta configuración, se procedió a organizar el flujo de trabajo conforme a los principios del marco ágil, permitiendo representar en una herramienta digital los artefactos, roles, eventos y evidencias del proceso. En este contexto, Jira funcionó como la plataforma principal para la gestión visual y operativa del proyecto, mientras que la inteligencia artificial actuó como herramienta de apoyo para fortalecer la calidad de la planeación, la claridad de la documentación y la interpretación de la información generada durante el Sprint.
 
-## Figura 1. Vista Resumen del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del resumen del proyecto en Jira.
-
 En primer lugar, se estructuró el **Product Backlog** del proyecto mediante la creación de épicas e historias de usuario. Las épicas agruparon los grandes frentes de trabajo del proyecto, tales como replanteo de obra, instalación de equipos, instalaciones internas, sistema de medición y gestión, capacitación comunitaria, evidencias y cierre documental, así como seguimiento y mejora continua. Posteriormente, estas épicas se desagregaron en historias principales, formuladas con enfoque de valor y orientadas a cubrir las necesidades funcionales del proyecto. Entre ellas se incluyeron actividades como el replanteo técnico del lote piloto, la instalación del sistema fotovoltaico, la ejecución de instalaciones internas, la validación del sistema de medición, la capacitación a usuarios y la consolidación de evidencias técnicas y documentales.
-
-## Figura 2. Vista del Backlog del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del backlog del proyecto en Jira.
 
 Como apoyo a esta etapa, se integró el uso de **inteligencia artificial generativa**, particularmente herramientas conversacionales como **ChatGPT**, utilizadas como apoyo en la formulación y refinamiento de las historias de usuario. Su función principal consistió en transformar ideas generales del proyecto en historias mejor redactadas, con una estructura más clara y alineada con la lógica Scrum. A través de esta herramienta, fue posible redactar historias con un enfoque orientado a valor, clarificar los criterios de aceptación, proponer descripciones más precisas y mejorar la trazabilidad entre necesidad, actividad y resultado esperado.
 
 Además, la inteligencia artificial aportó valor al ayudar a **organizar y depurar el Product Backlog** antes de ser registrado en Jira. Por ejemplo, permitió identificar relaciones entre actividades, sugerir dependencias, detectar duplicidades y proponer una secuencia más lógica de priorización. Esto resultó especialmente útil en un proyecto como el SISFV, donde las actividades técnicas, logísticas y documentales debían mantener coherencia entre sí. De esta forma, la IA no sustituyó la toma de decisiones del equipo, sino que actuó como un apoyo para mejorar la calidad de la formulación del backlog y reducir ambigüedades en la definición del trabajo.
 
 En segundo lugar, se construyó el **Sprint Backlog** correspondiente al **Sprint 1 – Piloto Vereda**, seleccionando del Product Backlog las historias que representaban el trabajo más relevante para el ciclo inicial. A estas historias se les asociaron subtareas operativas, lo que permitió desagregar el trabajo en acciones más concretas como validación de rutas de acceso, verificación de kits y materiales, instalación de paneles y estructura, instalación de baterías e inversor, registro de evidencias y ejecución de capacitación básica. Esta descomposición facilitó el seguimiento diario y permitió visualizar el avance real del Sprint en el tablero de Jira.
-
-## Figura 3. Vista del Cronograma del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del cronograma del proyecto en Jira.
 
 En esta fase, la inteligencia artificial también apoyó el proceso de **planeación del Sprint**. Su aporte se concentró en ayudar al equipo a descomponer historias grandes en tareas más pequeñas y manejables, así como en sugerir acciones necesarias para completar cada historia. Por ejemplo, una historia relacionada con la instalación de un sistema fotovoltaico pudo dividirse con ayuda de IA en tareas como validación de kits, montaje de paneles, instalación de baterías, prueba funcional y registro documental. Este apoyo permitió que el Sprint Backlog quedara mejor estructurado dentro de Jira, con subtareas más claras y trazables, facilitando la organización del trabajo durante el Sprint.
 
