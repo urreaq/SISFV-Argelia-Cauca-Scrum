@@ -36,10 +36,6 @@ En la planeación se mantuvo la estructura previamente definida para la asignaci
 
 Finalmente, el tablero de Jira fue actualizado con estados como **En curso** y **Finalizada**, de manera que el flujo de trabajo pudiera reflejar visualmente el estado de avance del Sprint. Las historias y subtareas operativas relacionadas con la ejecución del trabajo se ubicaron en **En curso**, mientras que los eventos ya documentados, los análisis y el incremento fueron marcados como **Finalizada**, permitiendo mostrar de manera ordenada la implementación real de la caja de herramientas de Scrum en el proyecto seleccionado.
 
-## Figura 4. Vista del Tablero del Proyecto en Jira
-
-> **Nota.** Captura de pantalla del tablero del proyecto en Jira.
-
 En síntesis, la implementación desarrollada en Jira permitió trasladar a un entorno práctico los lineamientos definidos en la fase anterior, integrando backlog, sprint, eventos, evidencias, métricas y mejora continua en una sola herramienta de trabajo. La incorporación de inteligencia artificial fortaleció este proceso al aportar valor en cuatro niveles principales: **redacción y refinamiento del backlog**, **descomposición y planeación del Sprint**, **síntesis y análisis de la información generada en los eventos Scrum**, e **identificación de oportunidades de mejora continua**. Esto demuestra que el marco Scrum puede aplicarse de manera organizada al proyecto **SISFV – Argelia, Cauca**, apoyándose en tecnologías emergentes e inteligencia artificial para fortalecer la planeación, la ejecución y la documentación del proceso.
 
 ## Cierre
