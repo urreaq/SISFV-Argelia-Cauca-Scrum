@@ -1,0 +1,67 @@
+# Implementación de la Caja de Herramientas de Scrum en el Proyecto SISFV – Argelia, Cauca
+
+## Introducción
+
+Con el fin de aplicar el marco de trabajo Scrum en un entorno práctico, se implementó la caja de herramientas diseñada en la fase anterior en el proyecto **SISFV – Argelia, Cauca**, apoyándose en tecnologías emergentes e inteligencia artificial para la planeación, seguimiento, control y mejora continua del proceso. Esta implementación se desarrolló mediante la configuración de un proyecto Scrum en Jira, en el cual se estructuraron los artefactos y eventos del marco Scrum, permitiendo evidenciar la organización del trabajo, la gestión iterativa del backlog, la planeación y ejecución del Sprint, así como la documentación del incremento entregado.
+
+## Desarrollo
+
+La implementación de la caja de herramientas de Scrum se realizó tomando como base el proyecto seleccionado **SISFV – Argelia, Cauca**, el cual fue configurado en Jira como un proyecto tipo Scrum. A partir de esta configuración, se procedió a organizar el flujo de trabajo conforme a los principios del marco ágil, permitiendo representar en una herramienta digital los artefactos, roles, eventos y evidencias del proceso. En este contexto, Jira funcionó como la plataforma principal para la gestión visual y operativa del proyecto, mientras que la inteligencia artificial actuó como herramienta de apoyo para fortalecer la calidad de la planeación, la claridad de la documentación y la interpretación de la información generada durante el Sprint.
+
+## Figura 1. Vista Resumen del Proyecto en Jira
+
+> **Nota.** Captura de pantalla del resumen del proyecto en Jira.
+
+En primer lugar, se estructuró el **Product Backlog** del proyecto mediante la creación de épicas e historias de usuario. Las épicas agruparon los grandes frentes de trabajo del proyecto, tales como replanteo de obra, instalación de equipos, instalaciones internas, sistema de medición y gestión, capacitación comunitaria, evidencias y cierre documental, así como seguimiento y mejora continua. Posteriormente, estas épicas se desagregaron en historias principales, formuladas con enfoque de valor y orientadas a cubrir las necesidades funcionales del proyecto. Entre ellas se incluyeron actividades como el replanteo técnico del lote piloto, la instalación del sistema fotovoltaico, la ejecución de instalaciones internas, la validación del sistema de medición, la capacitación a usuarios y la consolidación de evidencias técnicas y documentales.
+
+## Figura 2. Vista del Backlog del Proyecto en Jira
+
+> **Nota.** Captura de pantalla del backlog del proyecto en Jira.
+
+Como apoyo a esta etapa, se integró el uso de **inteligencia artificial generativa**, particularmente herramientas conversacionales como **ChatGPT**, utilizadas como apoyo en la formulación y refinamiento de las historias de usuario. Su función principal consistió en transformar ideas generales del proyecto en historias mejor redactadas, con una estructura más clara y alineada con la lógica Scrum. A través de esta herramienta, fue posible redactar historias con un enfoque orientado a valor, clarificar los criterios de aceptación, proponer descripciones más precisas y mejorar la trazabilidad entre necesidad, actividad y resultado esperado.
+
+Además, la inteligencia artificial aportó valor al ayudar a **organizar y depurar el Product Backlog** antes de ser registrado en Jira. Por ejemplo, permitió identificar relaciones entre actividades, sugerir dependencias, detectar duplicidades y proponer una secuencia más lógica de priorización. Esto resultó especialmente útil en un proyecto como el SISFV, donde las actividades técnicas, logísticas y documentales debían mantener coherencia entre sí. De esta forma, la IA no sustituyó la toma de decisiones del equipo, sino que actuó como un apoyo para mejorar la calidad de la formulación del backlog y reducir ambigüedades en la definición del trabajo.
+
+En segundo lugar, se construyó el **Sprint Backlog** correspondiente al **Sprint 1 – Piloto Vereda**, seleccionando del Product Backlog las historias que representaban el trabajo más relevante para el ciclo inicial. A estas historias se les asociaron subtareas operativas, lo que permitió desagregar el trabajo en acciones más concretas como validación de rutas de acceso, verificación de kits y materiales, instalación de paneles y estructura, instalación de baterías e inversor, registro de evidencias y ejecución de capacitación básica. Esta descomposición facilitó el seguimiento diario y permitió visualizar el avance real del Sprint en el tablero de Jira.
+
+## Figura 3. Vista del Cronograma del Proyecto en Jira
+
+> **Nota.** Captura de pantalla del cronograma del proyecto en Jira.
+
+En esta fase, la inteligencia artificial también apoyó el proceso de **planeación del Sprint**. Su aporte se concentró en ayudar al equipo a descomponer historias grandes en tareas más pequeñas y manejables, así como en sugerir acciones necesarias para completar cada historia. Por ejemplo, una historia relacionada con la instalación de un sistema fotovoltaico pudo dividirse con ayuda de IA en tareas como validación de kits, montaje de paneles, instalación de baterías, prueba funcional y registro documental. Este apoyo permitió que el Sprint Backlog quedara mejor estructurado dentro de Jira, con subtareas más claras y trazables, facilitando la organización del trabajo durante el Sprint.
+
+Adicionalmente, la IA aportó valor en la **estimación inicial del esfuerzo y en la identificación de riesgos operativos**. Aunque las decisiones finales fueron tomadas por el equipo, la herramienta permitió anticipar factores que podían afectar la ejecución, tales como tiempos de desplazamiento, disponibilidad de materiales, conectividad para cargar soportes y secuencia lógica de intervención por vivienda. Así, el uso de IA no solo apoyó la redacción, sino también la **planificación operativa**, al contribuir a una mejor preparación del Sprint antes de iniciar su ejecución.
+
+Dentro de esta implementación también se incorporaron los cinco eventos de Scrum. El **Sprint Planning** fue registrado como la actividad de definición del objetivo del Sprint, selección de historias, identificación de riesgos y validación de la **Definition of Done**. Posteriormente, se documentaron los **Daily Scrum** de los diez días del Sprint, incluyendo comentarios de evidencia relacionados con el avance del trabajo, los bloqueos encontrados, el plan del día y el apoyo requerido. Del mismo modo, se documentaron la **Sprint Review** y la **Sprint Retrospective**, registrando en Jira la validación del incremento entregado, la retroalimentación obtenida, las lecciones aprendidas y las acciones de mejora para el siguiente Sprint.
+
+En estos eventos, la inteligencia artificial fue utilizada como herramienta de **análisis, síntesis y apoyo a la reflexión del equipo**. En los Daily Scrum, por ejemplo, permitió convertir reportes breves de avance en resúmenes más organizados, ayudando a identificar patrones de bloqueo, priorizar asuntos críticos y dar mayor claridad al seguimiento diario. En la Sprint Review, la IA ayudó a sintetizar la información del incremento, agrupar observaciones de los interesados y convertir la retroalimentación en posibles ajustes al Product Backlog. En la Sprint Retrospective, apoyó la clasificación de hallazgos, separando aspectos positivos, dificultades y acciones de mejora, lo que facilitó una reflexión más estructurada sobre el desempeño del equipo.
+
+Adicionalmente, la caja de herramientas incorporó elementos de análisis y mejora continua, mediante la creación de tareas específicas para **métricas del Sprint** y **análisis de cuellos de botella**. En estas tareas se sistematizaron observaciones sobre tiempos de cierre, bloqueos recurrentes, completitud documental y factores que afectaron el flujo de trabajo, tales como conectividad, desplazamiento y cierre de soportes. La inteligencia artificial fue empleada también en este componente para sintetizar hallazgos, agrupar observaciones y proponer recomendaciones orientadas a optimizar la capacidad y el flujo del equipo.
+
+En este sentido, la IA funcionó como un apoyo para el **análisis de datos cualitativos del Sprint**. Aunque Jira permitió registrar tareas, estados, comentarios y evidencias, la inteligencia artificial hizo posible interpretar esa información con mayor rapidez, transformándola en conclusiones útiles para la toma de decisiones. Su valor estuvo en ayudar a responder preguntas como: cuáles fueron los bloqueos más frecuentes, qué tareas generaron mayor reproceso, en qué parte del flujo hubo más demoras y qué acciones podían implementarse para mejorar el siguiente Sprint. Así, la IA fortaleció el componente de mejora continua, uno de los principios esenciales de Scrum.
+
+El tercer artefacto de Scrum, el **Incremento**, fue documentado en Jira como el resultado funcional del Sprint 1. En este caso, el incremento se definió como el lote piloto intervenido con instalación realizada, validación funcional básica y soportes técnicos y documentales asociados. Para ello se utilizó una **Definition of Done** que incluyó instalación terminada, prueba funcional realizada, checklist técnico diligenciado, evidencia fotográfica, acta o firma de recibido y capacitación básica registrada. Esta definición permitió asegurar que el resultado del Sprint no se limitara a tareas parciales, sino a un avance verificable y con valor para el proyecto.
+
+En relación con el incremento, la inteligencia artificial aportó al proceso de **verificación documental y control de completitud**. Si bien Jira permitió registrar el estado de las tareas y el cierre de incidencias, la IA ayudó a revisar si la información registrada cumplía con todos los criterios esperados del incremento, facilitando la identificación de faltantes documentales o técnicos. Este uso fue especialmente importante en un proyecto donde el valor entregado no dependía únicamente de instalar equipos, sino también de demostrar, mediante evidencia, que la instalación había sido validada, documentada y socializada con el beneficiario.
+
+En la planeación se mantuvo la estructura previamente definida para la asignación de responsabilidades: el **Product Owner** lideró la visión y la priorización del backlog, el **Scrum Master** facilitó los eventos y promovió la mejora continua, mientras que los **Developers** apoyaron el análisis técnico, la planificación y la documentación del proyecto. Esta distribución funcional de roles quedó claramente establecida en el trabajo y permitió evidenciar, a través de la herramienta, la lógica del proceso Scrum sin afectar el valor académico del ejercicio.
+
+Finalmente, el tablero de Jira fue actualizado con estados como **En curso** y **Finalizada**, de manera que el flujo de trabajo pudiera reflejar visualmente el estado de avance del Sprint. Las historias y subtareas operativas relacionadas con la ejecución del trabajo se ubicaron en **En curso**, mientras que los eventos ya documentados, los análisis y el incremento fueron marcados como **Finalizada**, permitiendo mostrar de manera ordenada la implementación real de la caja de herramientas de Scrum en el proyecto seleccionado.
+
+## Figura 4. Vista del Tablero del Proyecto en Jira
+
+> **Nota.** Captura de pantalla del tablero del proyecto en Jira.
+
+En síntesis, la implementación desarrollada en Jira permitió trasladar a un entorno práctico los lineamientos definidos en la fase anterior, integrando backlog, sprint, eventos, evidencias, métricas y mejora continua en una sola herramienta de trabajo. La incorporación de inteligencia artificial fortaleció este proceso al aportar valor en cuatro niveles principales: **redacción y refinamiento del backlog**, **descomposición y planeación del Sprint**, **síntesis y análisis de la información generada en los eventos Scrum**, e **identificación de oportunidades de mejora continua**. Esto demuestra que el marco Scrum puede aplicarse de manera organizada al proyecto **SISFV – Argelia, Cauca**, apoyándose en tecnologías emergentes e inteligencia artificial para fortalecer la planeación, la ejecución y la documentación del proceso.
+
+## Cierre
+
+En consecuencia, la implementación de la caja de herramientas de Scrum permitió evidenciar en un entorno digital la articulación entre artefactos, eventos, roles y mecanismos de mejora continua del proyecto, fortaleciendo la trazabilidad del trabajo y demostrando la aplicabilidad del marco Scrum con apoyo de tecnologías emergentes e inteligencia artificial. Asimismo, la ampliación en la descripción de las herramientas de IA permite comprender con mayor claridad que su aporte no se limitó a una función de redacción, sino que se integró de manera transversal al flujo de trabajo de Scrum, apoyando la planificación, el seguimiento, el análisis y la mejora continua del proyecto.
+
+## Enlace Jira del Proyecto
+
+[Proyecto SISFV en Jira](https://libardo-urrea-q.atlassian.net/jira/software/projects/SISFV/boards/3?atlOrigin=eyJpIjoiM2VhZTAyODE4MDI4NDVlMzhiMzI0NzA3Mzc4N2Q1ZDQiLCJwIjoiaiJ9)
+
+## Enlace Repositorio
+
+[Repositorio del proyecto](https://github.com/urreaq/SISFV-Argelia-Cauca-Scrum.git)
