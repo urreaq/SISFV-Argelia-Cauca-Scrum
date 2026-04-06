@@ -14,37 +14,13 @@ Un elemento diferenciador de esta implementación fue el uso de **inteligencia a
 
 Otro resultado importante de la implementación fue la **visualización del estado real del trabajo** mediante el tablero de Jira. Las historias y subtareas operativas relacionadas con la ejecución del Sprint fueron ubicadas en estados como **En curso**, mientras que los eventos ya documentados, los análisis y el incremento fueron marcados como **Finalizada**. Esto permitió representar gráficamente el avance del proyecto, mejorar la trazabilidad del trabajo y facilitar la interpretación del estado de cada actividad. A nivel académico, este elemento evidenció de forma concreta cómo un tablero Scrum permite hacer visible el trabajo, controlar su avance y apoyar la toma de decisiones durante la ejecución del proyecto.
 
-## Nota de inserción
-**Insertar aquí la Tabla 3 y la Gráfica 1.**
-- **Tabla 3.** Distribución de incidencias por tipo en Jira.
-- **Gráfica 1.** Distribución de incidencias por tipo en Jira.
-
 La distribución de incidencias por tipo muestra que el proyecto fue estructurado de manera completa dentro de Jira, integrando épicas, historias, tareas y subtareas. La mayor participación de las tareas evidencia un énfasis importante en la documentación de eventos Scrum, actividades de seguimiento y análisis del Sprint, mientras que las subtareas muestran el nivel de desagregación operativa alcanzado en la ejecución del trabajo.
-
-## Nota de inserción
-**Insertar aquí la Tabla 4 y la Gráfica 2.**
-- **Tabla 4.** Estado general de avance de las incidencias.
-- **Gráfica 2.** Estado general de avance del proyecto en Jira.
 
 El estado general de avance evidencia una combinación equilibrada entre actividades finalizadas, actividades en curso y actividades pendientes. La concentración de incidencias en estado **Finalizada** confirma que los eventos Scrum, el análisis de métricas, los cuellos de botella y el incremento fueron documentados exitosamente, mientras que las incidencias en estado **En curso** reflejan la continuidad del trabajo operativo del Sprint.
 
-## Nota de inserción
-**Insertar aquí la Tabla 5 y la Gráfica 3.**
-- **Tabla 5.** Estado de avance por tipo de incidencia.
-- **Gráfica 3.** Estado de avance por tipo de incidencia.
-
 El análisis por tipo de incidencia permite observar que las **tareas** se concentran en el estado **Finalizada**, debido a que representan principalmente ceremonias Scrum, análisis y actividades de cierre. En contraste, las **historias** y **subtareas** se ubican principalmente en los estados **En curso** y **Por hacer**, lo cual es coherente con la naturaleza operativa del Sprint y con la lógica incremental del trabajo.
 
-## Nota de inserción
-**Insertar aquí la Tabla 6 y, si se considera pertinente, la Gráfica 4.**
-- **Tabla 6.** Evidencia de implementación de los eventos Scrum en Jira.
-- **Gráfica 4.** Eventos Scrum implementados y documentados en Jira.
-
 La evidencia registrada confirma la implementación de todos los eventos esenciales de Scrum. El **Daily Scrum** fue el evento con mayor frecuencia, al quedar documentado durante los diez días del Sprint, lo cual fortalece la trazabilidad cotidiana del proyecto. Asimismo, la existencia de registros para Sprint Planning, Sprint Review, Sprint Retrospective, métricas y cuellos de botella demuestra que el proceso no se limitó a ejecutar tareas, sino que integró seguimiento, inspección, reflexión y mejora continua.
-
-## Nota de inserción
-**Insertar aquí la Tabla 7.**
-- **Tabla 7.** Evidencia de implementación de los artefactos Scrum.
 
 La relación entre artefactos Scrum y evidencias en Jira demuestra que el proyecto fue estructurado con base en la lógica metodológica del marco ágil. El **Product Backlog** se evidenció en las épicas e historias, el **Sprint Backlog** en las historias seleccionadas y subtareas operativas, y el **Incremento** en la incidencia de cierre del Sprint con su respectiva **Definition of Done**. Esto confirma que la implementación no fue únicamente descriptiva, sino también funcional y trazable.
 
